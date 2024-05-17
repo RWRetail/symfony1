@@ -1,5 +1,6 @@
 ![Build Status](https://github.com/FriendsOfSymfony1/symfony1/actions/workflows/continuous-integration.yml/badge.svg)
 
+We need to keep this fork until pr: https://github.com/FriendsOfSymfony1/symfony1/pull/365 is merged
 About this version
 ------------------
 
